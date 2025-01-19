@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh</h1>
-<h3 align="center">A beginner frontend developer from Ukraine</h3>
+<h3 align="center">A beginner Fullstack developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, TailwindCSS, MongoDB**
+- 🌱 I’m currently learning **JavaScript, ReactJS, TailwindCSS, PHP, SQL and Laravel**
 
 - 📫 How to reach me **dev.andrusenko.oleh@gmail.com**
 
